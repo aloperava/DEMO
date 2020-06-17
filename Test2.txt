@@ -1,0 +1,3 @@
+# PRUEBA 2
+Segundo archivo creado desde consola de Windows.
+Comando: notepad Test2.text
